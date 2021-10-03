@@ -1,0 +1,13 @@
+{
+    "name": "kapil/nepali-date-converter",
+    "description": "Library",
+    "type": "composer-plugin",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "kapilsapkota",
+            "email": "searchin.kapil@gmail.com"
+        }
+    ],
+    "require": {}
+}
